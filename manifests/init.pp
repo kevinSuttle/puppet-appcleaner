@@ -1,7 +1,5 @@
 # Public: Install AppCleaner to /Applications.
 #
-# Examples
-#
 # include appcleaner
 class appcleaner {
   package { 'AppCleaner':
